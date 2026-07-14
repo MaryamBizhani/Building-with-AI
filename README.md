@@ -7,7 +7,7 @@ graduate school Statements of Purpose (SOPs), built with the Claude API.
 
 For several years I've informally mentored women pursuing graduate study
 abroad — helping them rework resumes, refine SOPs, and find affordable
-programs. Evaluating SOP is time-consuming and be automated using an AI tool.
+programs. Evaluating SOP is time-consuming and can be automated using an AI tool.
 
 This tool doesn't replace that mentoring — it handles the first, most
 repetitive pass, so my own time goes toward the judgment calls a script
