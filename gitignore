@@ -1,0 +1,13 @@
+# Never commit API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Real mentee SOPs and their feedback should NOT be committed --
+# only the synthetic example_input.txt / its generated feedback file.
+# If you test with a real draft, name it something like my_test_sop.txt
+# and it will be ignored automatically:
+my_test_*.txt
+my_test_*_feedback.md
